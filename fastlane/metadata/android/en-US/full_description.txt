@@ -14,17 +14,18 @@ You can visit the official webpage at https://martinmimigames.github.io/projects
 
 Features
 
-- Free
+- FOSS software (Free and Open Source)
 - Small (< 40 KB)
 - Basic file operations (Cut, copy, paste, rename, delete)
 - File name filter
-- Name and Modified Time sort
-- Easy switch between sdcard and internal storage
+- Name, Modified Time, File Size sort
+- Hidden File toggle
+- Drive menu to switch between internal and sdcard storage
 - Multi-share function
 - File/folder path copying
 - Minimum permissions
-- Dark/light theme toggle
-- md5 checksum generation and verification
+- System/Light/Dark Theme toggle
+- MD5 checksum generation and verification
 
 Issues
 

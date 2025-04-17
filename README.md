@@ -41,23 +41,29 @@ Location of website:
 
 ## Screenshots
 
-![Screenshot 1](docs/images/example1.jpg)
+![Screenshot 1](docs/images/example1.png)
+
+For more screenshots see [Gallery](fastlane/metadata/android/en-US/images/phoneScreenshots).
 
 ## Features
 
-- Free
+- FOSS software (Free and Open Source)
 - Small (< 40 KB)
 - Basic file operations (Cut, copy, paste, rename, delete)
 - File name filter
-- Name and Modified Time sort
-- Easy switch between sdcard and internal storage
+- Name, Modified Time, File Size sort
+- Hidden File toggle
+- Drive menu to switch between internal and sdcard storage
 - Multi-share function
 - File/folder path copying
 - Minimum permissions
-- Dark/light theme toggle
-- md5 checksum generation and verification
+- System/Light/Dark Theme toggle
+- MD5 checksum generation and verification
 
 ## Latest Versions
+
+- v4.18
+  - re-release only!! fix update metadata (version code broken since v4.16)
 
 - v4.17
   - Fix file cannot open when external app checks Uri permissions
@@ -167,7 +173,6 @@ cd little-file-explorer
 
 # cloning the mg.util library (it is included as a git submodule)
 git submodule update --init
-
 ```
 
 To build apk, you need a keystore file and a keystore.properties file:
@@ -199,7 +204,7 @@ Official Website at [https://martinmimigames.github.io](https://martinmimigames.
 
 ### Last update of README
 
-Date : 2025-04-10 yyyy-mm-dd
+Date : 2025-04-17 yyyy-mm-dd
 
 ### Important
 
